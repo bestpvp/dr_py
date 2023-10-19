@@ -3,3 +3,7 @@
 /logs/dr.log
 /static/js/.idea/
 /.idea/
+
+/venv*
+__pycache__/
+.DS_Store
